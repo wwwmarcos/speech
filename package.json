@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0",
+    "watson-developer-cloud": "^2.38.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
